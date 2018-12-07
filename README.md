@@ -22,7 +22,7 @@ Environment Sepecification:
 * Python 2.7 or above
 * Set DISPLAY=localhost:10.0
 
-Before running the code, please make sure you have the following packages installed: keras, nltk, sklearn, pandas, numpy, matplotlib, seaborn, wget, Wordcloud.
+Before running the code, please make sure you have the following packages installed: keras, nltk, sklearn, pandas, numpy, matplotlib, seaborn, wget, wordcloud.
 
 * Run either get_data.py or get_data.ipynb to download the data for runing the following code.
 * Plot.ipynb -- Draw the word cloud plots and count data plot
