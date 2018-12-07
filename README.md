@@ -8,8 +8,11 @@ In this project, I will classify the reviews’ sentiment based on the text inpu
 
 ### Dataset
 Amazon product reviews dataset consists of star ratings (1-5), the headline and the descriptive customer reviews.
+
 The original dataset is pre-split into a testing set and training set. Training set contains 3,000,000 reviews and testing set contains 650,000 reviews.
+
 Link to Kaggle data page: https://www.kaggle.com/bittlingmayer/amazonreviews
+
 Link to dataset: https://drive.google.com/drive/folders/0Bz8a_Dbh9Qhbfll6bVpmNUtUcFdjYmF2SEpmZUZUcVNiMUw1TWN6RDV3a0JHT3kxLVhVR2M
 
 
