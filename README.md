@@ -21,6 +21,7 @@ Link to dataset: https://drive.google.com/drive/folders/0Bz8a_Dbh9Qhbfll6bVpmNUt
 Environment Sepecification: 
 * Python 2.7 or above
 * Set DISPLAY=localhost:10.0
+* '.py' files can be run on PyCharm or Spyder, '.ipynb' file can be run on Jupyter Notebook. 
 
 Before running the code, please make sure you have the following packages installed: keras, nltk, sklearn, pandas, numpy, matplotlib, seaborn, wget, wordcloud.
 
