@@ -39,7 +39,9 @@ Before running the code, please make sure you have the following packages instal
 
 
 If you want to regenerate the sample data, run following code by order (Runing those codes takes really long time!!!)
-Please download the original dataset from the Google Drive link above.
+Please download the original dataset from the Google Drive link: https://drive.google.com/drive/folders/0Bz8a_Dbh9Qhbfll6bVpmNUtUcFdjYmF2SEpmZUZUcVNiMUw1TWN6RDV3a0JHT3kxLVhVR2M
+Download 'amazon_review_full_csv.tar' file, and then move 'train.csv' and 'test.csv' to the same folder of those code files. 
+
 * training_data_clean.ipynb
 * testing_data_clean.ipynb
 * combine_data.ipynb
